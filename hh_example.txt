@@ -1,0 +1,36 @@
+
+
+PokerStars Hand #194070713842: Tournament #2473317509, $12.01+$12.01+$0.98 USD Hold'em No Limit - Level I (10/20) - 2018/12/04 22:54:41 MSK [2018/12/04 14:54:41 ET]
+Table '2473317509 1' 6-max Seat #1 is the button
+Seat 1: Mikson92 (500 in chips)
+Seat 2: FoodProm (500 in chips)
+Seat 3: Jack9off85 (500 in chips)
+Seat 4: Haarlem91 (500 in chips)
+Seat 5: DiggErr555 (500 in chips)
+Seat 6: TomSto (500 in chips)
+Mikson92: posts the ante 2
+FoodProm: posts the ante 2
+Jack9off85: posts the ante 2
+Haarlem91: posts the ante 2
+DiggErr555: posts the ante 2
+TomSto: posts the ante 2
+FoodProm: posts small blind 10
+Jack9off85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to DiggErr555 [9c Jh]
+Haarlem91: folds
+DiggErr555: folds
+TomSto: raises 62 to 82
+Mikson92: folds
+FoodProm: folds
+Jack9off85: folds
+Uncalled bet (62) returned to TomSto
+TomSto collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0
+Seat 1: Mikson92 (button) folded before Flop (didn't bet)
+Seat 2: FoodProm (small blind) folded before Flop
+Seat 3: Jack9off85 (big blind) folded before Flop
+Seat 4: Haarlem91 folded before Flop (didn't bet)
+Seat 5: DiggErr555 folded before Flop (didn't bet)
+Seat 6: TomSto collected (62)
